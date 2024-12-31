@@ -35,8 +35,15 @@ The certificates validate proficiency in tools and methodologies that are essent
       It covers responsibilities such as backlog management, stakeholder communication, and delivering value to customers and the business.
    - **Issuer**: Udemy
    - **Date Obtained**: 02/10/2023
+
+## How to Access the Certificates
+The digital certificates are linked above as either images or PDFs.
+
+## Acknowledgements
+- Thanks to the institutions and platforms that issue and support these certifications.
+- Special thanks to the course instructors and teams who have contributed to the creation of these learning paths.
      
-6. **Rewards and Recognition** : **Best Debut**
+# Rewards and Recognition : **Best Debut**
 
 ## Overview
 This highlights my recognition as the **Best Debut** in Sun Technologies Integrators Pvt Ltd, awarded for outstanding performance and contribution during my initial phase as Business Analyst. This achievement acknowledges my quick adaptability, dedication, and the positive impact I made within a short time frame.
@@ -72,12 +79,5 @@ This recognition is an important milestone in my professional journey, reflectin
 I would like to express my gratitude to:
 - Managers, colleagues and the team for their support, guidance, and belief in my abilities.
 - Sun Technologies Integrators Pvt Ltd for creating an environment that encourages growth and recognizes talent.
-
-## How to Access the Certificates
-The digital certificates are linked above as either images or PDFs.
-
-## Acknowledgements
-- Thanks to the institutions and platforms that issue and support these certifications.
-- Special thanks to the course instructors and teams who have contributed to the creation of these learning paths.
 
 For any questions/feedback/inquiries or to learn more about my professional achievements and experiences, feel free to contact me at [mkbindushree@gmail.com].
