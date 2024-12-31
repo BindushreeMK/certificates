@@ -79,9 +79,11 @@ This recognition is an important milestone in my professional journey, reflectin
 I would like to express my gratitude to:
 - Managers, colleagues and the team for their support, guidance, and belief in my abilities.
 - Sun Technologies Integrators Pvt Ltd for creating an environment that encourages growth and recognizes talent.
+
+  For any questions/feedback/inquiries or to learn more about my professional achievements and experiences, feel free to contact me at [mkbindushree@gmail.com].
   
    ### Clone the repository:
 ```bash
 git clone https://github.com/BindushreeMK/certificates.git
 
-For any questions/feedback/inquiries or to learn more about my professional achievements and experiences, feel free to contact me at [mkbindushree@gmail.com].
+
