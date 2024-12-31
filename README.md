@@ -82,6 +82,6 @@ I would like to express my gratitude to:
   
    ### Clone the repository:
 ```bash
-git clone
+git clone https://github.com/BindushreeMK/certificates.git
 
 For any questions/feedback/inquiries or to learn more about my professional achievements and experiences, feel free to contact me at [mkbindushree@gmail.com].
