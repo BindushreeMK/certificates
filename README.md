@@ -11,7 +11,6 @@ The certificates validate proficiency in tools and methodologies that are essent
    - **Issuer**: Udemy
    - **Date Obtained**: 29/12/2024
 
-
 2. **Power BI Certification**
    - **Description**: This certification demonstrates proficiency in Power BI, a powerful business analytics tool by Microsoft.
      The skills covered include data visualization, report building, and dashboard creation, enabling professionals to make data-driven decisions.
@@ -35,6 +34,12 @@ The certificates validate proficiency in tools and methodologies that are essent
       It covers responsibilities such as backlog management, stakeholder communication, and delivering value to customers and the business.
    - **Issuer**: Udemy
    - **Date Obtained**: 02/10/2023
+     
+6. **KPIs Certification**
+   - **Description**: Key Performance Indicators(KPIs) , This certification validates the skills required for measuring performance, progress, and the success of an organization. 
+      KPIs allow businesses to evaluate how well they are achieving their objectives, ensuring that all efforts align with their strategic goals. 
+   - **Issuer**: Udemy
+   - **Date Obtained**: 07/01/2025
 
 ## How to Access the Certificates
 The digital certificates are linked above as either images or PDFs.
