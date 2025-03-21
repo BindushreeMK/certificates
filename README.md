@@ -44,12 +44,12 @@ The certificates validate proficiency in tools and methodologies that are essent
 7. **API and Web Services introduction Certification**
    - **Description**: API  and Web Service Introduction , This certification validates the skills required for understanding how API and Web Services work. 
    - **Topics Covered**: 
-      - **Basics of APIs and Web Services**
-      - **Understanding of HTTP/HTTPS, XML, JSON Data Formats**
-      - **Introduction to SOAP Web Services, WSDL**
-      - **API Authentication and Security Fundamentals(OAuth,API Keys)**
-      - **API Testing and Debugging Basics**
-      - **API Documentation(Swagger,Postman)**
+      - Basics of APIs and Web Services
+      - Understanding of HTTP/HTTPS, XML, JSON Data Formats
+      - Introduction to SOAP Web Services, WSDL
+      - API Authentication and Security Fundamentals(OAuth,API Keys)
+      - API Testing and Debugging Basics
+      - API Documentation(Swagger,Postman)
    - **Issuer**: Udemy
    - **Date Obtained**: 21/03/2025
 
