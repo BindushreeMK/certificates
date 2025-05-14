@@ -52,6 +52,17 @@ The certificates validate proficiency in tools and methodologies that are essent
       - API Documentation(Swagger,Postman)
    - **Issuer**: Udemy
    - **Date Obtained**: 21/03/2025
+     
+8. **Jira and Confluence Certification**
+   - **Description**: This certification showcases the completion of Atlassian certifications in **Jira** and **Confluence**, reflecting proficiency in agile project management, team 
+       collaboration, and documentation tools.
+     These certifications demonstrate foundational expertise in Atlassian tools, suitable for roles involving:
+      - Project Management
+      - Agile Methodology
+      - Business Analysis
+      - Team Collaboration & Documentation
+   - **Issuer**: Udemy
+   - **Date Obtained**: 14/05/2025
 
 ## How to Access the Certificates
 The digital certificates are linked above as either images or PDFs.
